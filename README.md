@@ -45,5 +45,8 @@ I've worked on a number of opensource projects in the past few years, and contin
 [![Kafka](https://img.shields.io/badge/Apache%20Kafka-20232A?style=for-the-badge&logo=apachekafka&logoColor=white)](https://github.com/fosol)
 [![Keycloak](https://img.shields.io/badge/Keycloak-593D88?style=for-the-badge&logo=keycloak&logoColor=white)](https://github.com/fosol)
 
+## Github
+
 [![Fosol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fosol&count_private=true&show_icons=true)](https://github.com/Fosol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fosol)](https://github.com/Fosol/github-readme-stats)
 
