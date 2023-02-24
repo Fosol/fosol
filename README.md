@@ -6,6 +6,8 @@ The most recent project I'm working on is a news aggregate and curation tool.  T
 
 I've worked on a number of opensource projects in the past few years, and continue to look for opportunities in this area.
 
+[![Fosol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fosol&count_private=true&show_icons=true)](https://github.com/Fosol/github-readme-stats)
+
 ## Skills
 ### Languages and Libraries
 
@@ -67,9 +69,4 @@ I've worked on a number of opensource projects in the past few years, and contin
 [![Transcription](https://img.shields.io/badge/Transcription-593D88?style=for-the-badge&logo=transcription&logoColor=white)](https://github.com/fosol)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-593D88?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/fosol)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-593D88?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/fosol)
-
-
-## Github
-
-[![Fosol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fosol&count_private=true&show_icons=true)](https://github.com/Fosol/github-readme-stats)
 
