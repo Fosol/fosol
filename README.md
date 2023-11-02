@@ -1,4 +1,4 @@
-## Welcome  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fosol.fosol&left_color=green&right_color=red)
+## Welcome  visitors
 
 Hi, I'm Jeremy Foster, a Solution/Technical Architect and Software Engineer.  I am an active contractor working in Victoria, BC Canada.
 
